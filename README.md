@@ -30,5 +30,3 @@ See LICENCE for mor info.
 
 ## Credits:
 - Pong was originally created by Atari in 1972. This implementation was created for educational purposes.
-- Background music by [Yoav Alyagon](https://pixabay.com/users/redproductions-970568/) from Pixabay.
-- Sound Effect also from [Pixabay](https://pixabay.com/)
